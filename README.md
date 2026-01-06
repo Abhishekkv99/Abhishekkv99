@@ -1,6 +1,6 @@
 # Abhishek Kumar Verma
 
-**Associate Principal Data Scientist | NLP & Generative AI Lead**
+**Principal Data Scientist | NLP & Generative AI Lead**
 
 Associate Principal Data Scientist with over 10 years of experience specializing in e-commerce and media domains. I lead high-performing teams to build production-grade NLP, Machine Translation, and Agentic AI applications.
 
