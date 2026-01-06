@@ -32,7 +32,8 @@ Associate Principal Data Scientist with over 10 years of experience specializing
 | Category | Skills |
 | --- | --- |
 | **Languages** | Python, Java, C |
-| **LLM & Agents** | Langchain, Langgraph, Langsmith, OpenAI, Anthropic Claude, Gemini |
+| **LLM & Agents** | Langchain, Langsmith, OpenAI, Anthropic Claude, Gemini |
+| **Multi-Agent Frameworks** |  Langgraph, CrewAI, OpenAI SDK |
 | **ML Frameworks** | PyTorch, Hugging Face, OpenNMT, FastAPI, Scikit-learn, SpaCy  |
 | **Cloud & DevOps** | AWS (Bedrock, Lambda), Azure (AI Foundry), Docker, Kubernetes |
 | **Data & DB** | Snowflake, MS SQL Server |
@@ -40,7 +41,7 @@ Associate Principal Data Scientist with over 10 years of experience specializing
 
 ---
 
-### 📈 Featured Projects
+### 📈 Featured Industry Projects
 
 * 
 **Content Compliance AI Agent:** Developed a Conversational AI to ensure movie/TV content adheres to country-specific regulations.
