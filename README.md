@@ -31,24 +31,12 @@ Associate Principal Data Scientist with over 10 years of experience specializing
 
 | Category | Skills |
 | --- | --- |
-| **Languages** | Python, Java, C 
-
- |
-| **LLM & Agents** | Langchain, Langgraph, Langsmith, OpenAI, Anthropic Claude, Gemini 
-
- |
-| **ML Frameworks** | PyTorch, Hugging Face, OpenNMT, FastAPI, Scikit-learn, SpaCy 
-
- |
-| **Cloud & DevOps** | AWS (Bedrock, Lambda), Azure (AI Foundry), Docker, Kubernetes 
-
- |
-| **Data & DB** | Snowflake, MS SQL Server 
-
- |
-| **Tools** | VS Code, Cursor, Jupyter Notebooks 
-
- |
+| **Languages** | Python, Java, C |
+| **LLM & Agents** | Langchain, Langgraph, Langsmith, OpenAI, Anthropic Claude, Gemini |
+| **ML Frameworks** | PyTorch, Hugging Face, OpenNMT, FastAPI, Scikit-learn, SpaCy  |
+| **Cloud & DevOps** | AWS (Bedrock, Lambda), Azure (AI Foundry), Docker, Kubernetes |
+| **Data & DB** | Snowflake, MS SQL Server |
+| **Tools** | VS Code, Cursor, Jupyter Notebooks|
 
 ---
 
