@@ -13,7 +13,7 @@ Associate Principal Data Scientist with over 10 years of experience specializing
 
 
 * 
-**Generative AI & Agents:** Expert in building Conversational AI Agents and RAG-based systems using **Langgraph**, **Langchain**, and **Langsmith**.
+**Generative AI & Agents:** Expert in building Multi-Agentic Conversational AI and RAG-based systems using **Langgraph**, **Langchain**, and **Langsmith** with **MCP**.
 
 
 * 
